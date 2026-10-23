@@ -1,0 +1,10 @@
+{
+  "name": "ffmpeg-n8.1.3-18-g46d899d7a0-linux64-lgpl-8.1",
+  "version": "n8.1.3-18-g46d899d7a0",
+  "sha256": "602ca2985139dbab87e0d7c70f48afc69548060463dcfab44c0e5f50ebe39df8",
+  "upstream": "https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-14-13-03/ffmpeg-n8.1.3-18-g46d899d7a0-linux64-lgpl-8.1.tar.xz",
+  "mirror": "https://github.com/inkboundnightdesk/night-desk-native-artifacts/releases/download/ffprobe-8.1.3-20261014/ffmpeg-n8.1.3-18-g46d899d7a0-linux64-lgpl-8.1.tar.xz",
+  "tag": "ffprobe-8.1.3-20261014",
+  "source": "https://github.com/FFmpeg/FFmpeg/tree/46d899d7a0",
+  "recipes": "https://github.com/BtbN/FFmpeg-Builds/tree/autobuild-2026-10-14-13-03"
+}
