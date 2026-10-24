@@ -1,4 +1,4 @@
-name: Maintain pinned validator mirror
+name: maintain pinned validator mirror
 on:
   workflow_dispatch:
   schedule:
